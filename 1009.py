@@ -1,0 +1,5 @@
+Name=input()
+S_S=float(input())
+T_V_S=float(input())
+TOTAL=(S_S+(T_V_S*0.15))
+print("TOTAL = R$ %.2f" % TOTAL)

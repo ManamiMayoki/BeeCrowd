@@ -1,0 +1,1 @@
+{"name":"Local: 1008","url":"/home/marufa/Documents/bEeCrOwD/1008.py","tests":[{"id":1775147286692,"input":"25\n100\n5.50 ","output":"NUMBER = 25\nSALARY = U$ 550.00"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/marufa/Documents/bEeCrOwD/1008.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 1004_simple_product","url":"/home/marufa/Documents/bEeCrOwD/1004_simple_product.py","tests":[{"id":1775062909109,"input":"3\n9 ","output":"PROD = 27"},{"id":1775064627954,"input":"2.00","output":"A=12.5664"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/marufa/Documents/bEeCrOwD/1004_simple_product.py","group":"local","local":true}
