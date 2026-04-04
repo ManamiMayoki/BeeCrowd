@@ -1,1 +1,0 @@
-{"name":"Local: 1010","url":"/home/marufa/Documents/bEeCrOwD/1010.py","tests":[{"id":1775236430620,"input":"12 1 5.30\n16 2 5.10","output":"VALOR A PAGAR: R$ 15.50"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/marufa/Documents/bEeCrOwD/1010.py","group":"local","local":true}
