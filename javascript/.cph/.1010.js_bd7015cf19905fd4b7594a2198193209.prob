@@ -1,0 +1,1 @@
+{"name":"Local: 1010","url":"/home/marufa/Documents/bEeCrOwD/javascript/1010.js","tests":[{"id":1775578655744,"input":"12 1 5.30\n16 2 5.10","output":"VALOR A PAGAR: R$ 15.50"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/marufa/Documents/bEeCrOwD/javascript/1010.js","group":"local","local":true}
