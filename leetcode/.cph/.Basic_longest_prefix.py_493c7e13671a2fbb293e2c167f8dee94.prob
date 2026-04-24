@@ -1,0 +1,1 @@
+{"name":"Local: Basic_longest_prefix","url":"/home/marufa/Documents/bEeCrOwD/leetcode/Basic_longest_prefix.py","tests":[{"id":1777004412793,"input":"flower flow flight","output":"fl"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/marufa/Documents/bEeCrOwD/leetcode/Basic_longest_prefix.py","group":"local","local":true}
