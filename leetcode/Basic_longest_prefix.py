@@ -5,7 +5,7 @@ def longestCommonPrefix(strs):
     for i in range(len(strs[0])):
         char=strs[0][i]
         for j in range(1,len(strs)):
-            if i==len(strs[j]) or strs[j][i]!=char: #corrent string shorter than reference, :->up to
+            if i==len(strs[j]) or strs[j][i]!=char: #current string shorter than reference, :->up to
                 return strs[0][:i]
     return strs[0]
 
